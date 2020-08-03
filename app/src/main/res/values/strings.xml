@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Jadwalah App</string>
+    <string name="start">Let\'s get started</string>
+    <string name="aboutUs">about Us</string>
+    <string name="aboutText"><![CDATA[<p>We are a startup,
+    striving for excellence in online education. <br>"
+    "Check us out to learn more about what will grab your attention.</p>]]></string>
+    <string name="location">Amman, Jordan</string>
+    <string name="rights">Jadwalah © 2020 · All Rights Reserved</string>
+
+</resources>
